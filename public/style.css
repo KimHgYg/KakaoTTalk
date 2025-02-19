@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; }
+ul { list-style-type: none; padding: 0; }
+li { padding: 8px; margin-bottom: 2px; background: #eee; }
+form { display: flex; padding: 10px; }
+input { flex: 1; padding: 10px; }
+button { padding: 10px; }
+#login, #chat { text-align: center; margin-top: 20px; }
+#rooms { margin-bottom: 20px; }
+#room { margin-top: 20px; }
